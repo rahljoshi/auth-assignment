@@ -28,3 +28,15 @@ dependencies, and after it you can run the main file **_AuthenticationApplicatio
 * Once you have the token then you add the token to your request and send the request, once you send the request you will receive a string as a response.
   * URL: http://localhost:8090/home
 
+## Screenshots
+* register user request
+![Screenshot (61)](https://github.com/rahljoshi/auth-assignment/assets/59885237/04299963-368f-40a0-a05f-d83b69bd8216)
+
+* login user request
+![Screenshot (62)](https://github.com/rahljoshi/auth-assignment/assets/59885237/e1e5a7b9-bd71-40db-8c6d-cfdf36967abc)
+
+* authorized request
+![Screenshot (63)](https://github.com/rahljoshi/auth-assignment/assets/59885237/b26137dc-6771-4496-9303-697f2e86125f)
+
+* unauthorized request
+![Screenshot (64)](https://github.com/rahljoshi/auth-assignment/assets/59885237/59b405ee-fe70-4bb0-9ff1-4906f468593b)
